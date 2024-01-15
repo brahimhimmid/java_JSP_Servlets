@@ -7,7 +7,7 @@
     
     <servlet>
         <servlet-name>first_servlet</servlet-name>
-        <servlet-class>servlets.PremiereServlet</servlet-class>
+        <servlet-class>servlets.Controleur</servlet-class>
     </servlet>
     
     <servlet-mapping>
