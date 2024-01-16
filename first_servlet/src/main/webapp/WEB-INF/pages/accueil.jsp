@@ -9,7 +9,7 @@
 <html>
 <head>
     <title>page de connexion</title>
-    <jsp:useBean id="erreur" type="java.lang.String" scope="request"></jsp:useBean>
+    <jsp:useBean id="erreur" type="java.lang.String" scope="request" class="java.lang.String"/>
 </head>
 <body>
 <span style="color: red">
